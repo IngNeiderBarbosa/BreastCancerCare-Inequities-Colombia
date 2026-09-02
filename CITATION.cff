@@ -1,1 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this software or its associated computational materials, please cite this repository."
 
+title: "BreastCancerCare-Inequities-Colombia"
+
+type: software
+
+authors:
+  - family-names: "Barbosa Castro"
+    given-names: "Neider Duan"
+    email: "ndbarbosac@ucompensar.edu.co"
+    orcid: "https://orcid.org/ORCID-NEIDER"
+
+  - family-names: "Rique Sabogal"
+    given-names: "Angie Paola"
+    email: "arique@ucompensar.edu.co"
+    orcid: "https://orcid.org/ORCID-ANGIE"
+
+  - family-names: "Seguanes Díaz"
+    given-names: "Claudia Cristina"
+    email: "claudia.seguanes@docente.ibero.edu.co"
+    orcid: "https://orcid.org/0000-0002-2660-828X"
+
+  - family-names: "Rueda Dueñas"
+    given-names: "Alexander"
+    email: "aruedad@ucompensar.edu.co"
+    orcid: "https://orcid.org/ORCID-ALEXANDER"
+
+  - family-names: "Barbosa Castro"
+    given-names: "Yuleidy Paola"
+    email: "yuleidyBarbosa_8612@yahoo.es"
+    orcid: "https://orcid.org/ORCID-YULEIDY"
+
+version: "1.0.0"
+
+repository-code: "https://github.com/IngNeiderBarbosa/BreastCancerCare-Inequities-Colombia"
+
+license: "MIT"
+
+keywords:
+  - "breast cancer"
+  - "health inequities"
+  - "care pathways"
+  - "agent-based simulation"
+  - "agent-based modelling"
+  - "data mining"
+  - "decision trees"
+  - "synthetic populations"
+  - "healthcare analytics"
+  - "Colombia"
+
+abstract: >-
+  Reproducible computational materials supporting a proof-of-concept study
+  integrating publicly available Colombian health data, agent-based simulation,
+  synthetic populations, and interpretable data-mining techniques to explore
+  structural inequities in breast cancer care pathways.
